@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Denis Kiarie
+#  Hi, I'm Denis Kiarie
 
 **`Data Scientist | ML/AI Engineer | Systems Thinker`**
 
@@ -6,29 +6,29 @@ I build reliable, scalable systems through automation and data-driven approaches
 
    <p align="left">
       <a href="https://github.com/KiarieDenis?tab=followers">
-         <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/KiarieDenis?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+         <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/KiarieDenis?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=black"/>
       </a>
       <a href="https://github.com/KiarieDenis?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/KiarieDenis?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/KiarieDenis?color=55960c&style=for-the-badge&labelColor=black&logo=star"/>
       </a>
    </p>
 
 ---
 
-### 🧰 Tech Stack
+### Tech Stack
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=black)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 **Learning:** Machine Learning, Deep Learning, Game Development
 
 ---
 
-### 🧠 Core Philosophy
+### Core Philosophy
 
 > *Most people learn tools. I study patterns.*
 
@@ -40,7 +40,7 @@ I connect ideas across domains – from ML pipelines to backend systems and auto
 
 ---
 
-### 📌 What I'm Working On
+### What I'm Working On
 
 | Area | Focus |
 |------|-------|
@@ -52,7 +52,7 @@ I connect ideas across domains – from ML pipelines to backend systems and auto
 
 ---
 
-### 💼 What I'm Looking For
+### What I'm Looking For
 
 | Role Type | Interest |
 |-----------|----------|
@@ -62,7 +62,7 @@ I connect ideas across domains – from ML pipelines to backend systems and auto
 
 ---
 
-### 🌐 Find Me
+### Find Me
 
 - **Portfolio:** [denis-kiarie-porfolio.onrender.com](https://denis-kiarie-porfolio.onrender.com)
 - **GitHub:** [github.com/KiarieDenis](https://github.com/KiarieDenis)
