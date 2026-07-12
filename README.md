@@ -1,4 +1,4 @@
-#  Hi, I'm Denis Kiarie
+#   I'm Denis Kiarie
 
 **`Data Scientist | ML/AI Engineer | Systems Thinker`**
 
